@@ -1,0 +1,9 @@
+#-------------------------------------------
+# .gitignore file for tutorial 
+#-------------------------------------------
+PAT
+Untitled*.ipynb
+*noshow.ipynb
+div/
+lit/
+!lit/README.md
