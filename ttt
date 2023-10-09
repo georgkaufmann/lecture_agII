@@ -1,6 +1,0 @@
-git init
-git add -A
-git commit -m "initial"
-git branch -M main
-git remote add github https://github.com/georgkaufmann/lecture_agII.git
-git push github main

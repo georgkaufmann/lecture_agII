@@ -39,19 +39,44 @@ Malteserstr. 74-100, 12249 Berlin, Haus D, Raum D127<br>
 
 ## Lectures
 
-The lecture series is compiled as handouts in **pdf** format:
+The lecture series is compiled as handouts in **pdf** format
+(click on title):
 
-- [Lecture 0: Overview](handouts/Lecture_AngewandteII_00_Vorbemerkung_handout.pdf)
-- [Lecture 1: Einleitung](handouts/Lecture_AngewandteII_01_Einleitung_handout.pdf)
-- [Lecture 2: Potentialtheorie](handouts/Lecture_AngewandteII_02_Potentialtheorie_handout.pdf)
-- [Lecture 3: Kugelfunktionen](handouts/Lecture_AngewandteII_03_Kugelfunktionen_handout.pdf)
-- [Lecture 4: Grundgleichungen](handouts/Lecture_AngewandteII_04_Grundgleichungen_handout.pdf)
-- [Lecture 5: Gravimetrie](handouts/Lecture_AngewandteII_05_Gravimetrie_handout.pdf)
-- [Lecture 6: Magnetik](handouts/Lecture_AngewandteII_06_Magnetik_handout.pdf)
-- [Lecture 7: Geoelektrik](handouts/Lecture_AngewandteII_07_Geoelektrik_handout.pdf)
-- [Lecture 8: Georadar](handouts/Lecture_AngewandteII_08_Georadar_handout.pdf)
-- [Lecture 9: Filterung](handouts/Lecture_AngewandteII_09_Filterung_handout.pdf)
-- [Lecture 10: Interpretation](handouts/Lecture_AngewandteII_09_Interpretation_handout.pdf)
+<table>
+<tr>
+<td style="height: 30px;vertical-align:top;text-align:center">
+<a href="handouts/Lecture_AngewandteII_00_Vorbemerkung_handout.pdf">0. Vorbemerkung</a> <br><img src='images/Muensterdorf2016_gk.jpg' style=width:50mm></td>
+<td style="height: 30px;vertical-align:top;text-align:center">
+<a href="handouts/Lecture_AngewandteII_01_Einleitung_handout.pdf">1. Einleitung</a> <br><img src='images/chapter/chap01.jpg' style=width:50mm></td>
+<td style="height: 30px;vertical-align:top;text-align:center">
+<a href="handouts/Lecture_AngewandteII_02_Potentialtheorie_handout.pdf">2. Potentialtheorie</a> <br><img src='images/chapter/chap02.jpg' style=width:50mm></td>
+</tr>
+<tr>
+<td style="height: 30px;vertical-align:top;text-align:center">
+<a href="handouts/Lecture_AngewandteII_03_Kugelfunktionen_handout.pdf">3. Kugelfunktionen</a> <br><img src='images/chapter/chap03.jpg' style=width:50mm></td>
+<td style="height: 30px;vertical-align:top;text-align:center">
+<a href="handouts/Lecture_AngewandteII_04_Grundgleichungen_handout.pdf">4. Grundgleichungen</a> <br><img src='images/chapter/chap04.jpg' style=width:50mm></td>
+<td style="height: 30px;vertical-align:top;text-align:center">
+<a href="handouts/Lecture_AngewandteII_05_Gravimetrie_handout.pdf">5. Gravimetrie</a> <br><img src='images/chapter/chap05.jpg' style=width:50mm></td>
+</tr>
+<tr>
+<td style="height: 30px;vertical-align:top;text-align:center">
+<a href="handouts/Lecture_AngewandteII_06_Magnetik_handout.pdf">6. Magnetik</a> <br><img src='images/chapter/chap06.jpg' style=width:50mm></td>
+<td style="height: 30px;vertical-align:top;text-align:center">
+<a href="handouts/Lecture_AngewandteII_07_Geoelektrik_handout.pdf">7. Geoelektrik</a> <br><img src='images/chapter/chap07.jpg' style=width:50mm></td>
+<td style="height: 30px;vertical-align:top;text-align:center">
+<a href="handouts/Lecture_AngewandteII_08_Georadar_handout.pdf">8. Georadar</a> <br><img src='images/chapter/chap08.jpg' style=width:50mm></td>
+</tr>
+<tr>
+<td style="height: 30px;vertical-align:top;text-align:center">
+<a href="handouts/Lecture_AngewandteII_09_Filterung_handout.pdf">9. Filterung</a> <br><img src='images/chapter/chap09.jpg' style=width:50mm></td>
+<td style="height: 30px;vertical-align:top;text-align:center">
+<a href="handouts/Lecture_AngewandteII_10_Modellierung_handout.pdf">10. Modellierung</a> <br><img src='images/chapter/chap10.jpg' style=width:50mm></td>
+<td style="height: 30px;vertical-align:top;text-align:center">
+<a href="handouts/Lecture_AngewandteII_11_Interpretation_handout.pdf">11. Interpretation</a> <br><img src='images/chapter/chap11.jpg' style=width:50mm></td>
+
+</tr>
+</table>
 
 ## Exercises
 
@@ -60,7 +85,7 @@ The exercises are mainly **jupyter** notebooks, which can be accessed interactiv
 
 A list of notebooks can be found here:
 
-- <a href="README_Notebooks.html" target="_blank">List of Juypter notebooks</a>
+- <a href="README_Notebooks.md" target="_blank">List of Juypter notebooks</a>
 
 ## Download
 ```
