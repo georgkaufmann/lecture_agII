@@ -21,7 +21,7 @@ In dieser Vorlesung besprechen wir die **mathematischen Grundlagen** der angewan
 - Geoelektrik
 - Georadar
 
-Wir schliessen die Vorlesung mit der Diskussion **zahlreicher Feldmessungen** ab.
+Wir schliessen die Vorlesung mit **Filterung**, **Modellierung**, und der Diskussion **zahlreicher Feldmessungen** ab.
 
 ## Course instructor
 
